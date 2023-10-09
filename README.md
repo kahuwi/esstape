@@ -1,2 +1,2 @@
 # esstape
-Decodes tapes for the 3ESS phone switch
+Decodes tapes for the Dimension 2000 phone switch
